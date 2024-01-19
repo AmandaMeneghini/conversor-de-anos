@@ -22,7 +22,7 @@ function convert(name, multiplier){
     minutes = oneYearInMonthsWeeksDaysHoursMinutesSeconds[0][4] * multiplier
     console.log(hours + " minutos")
 
-    seconds = oneYearInMonthsWeeksDaysHoursMinutesSeconds[0][4] * multiplier
+    seconds = oneYearInMonthsWeeksDaysHoursMinutesSeconds[0][5] * multiplier
     console.log(seconds + " segundos")
 
     result = [months, weeks, days, hours, minutes, seconds]
@@ -32,3 +32,4 @@ function convert(name, multiplier){
 
 convert("pedro", 19)
 convert("josé", 26)
+convert("invisível", 0)
