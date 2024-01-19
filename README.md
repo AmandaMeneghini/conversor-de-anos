@@ -25,7 +25,7 @@ Saída: [0, 0, 0, 0, 0, 0]
 * Se necessário, divida em mais de uma função (lembre-se de princípios SOLID para um bom código)
 
 ## Run code
-<img src="./src/assets/demoOfYearsConvert.gif">
+<img src="./src/assets/demoOfYearsConvert2.gif">
 
 ### Linguagem Utilizada
 
